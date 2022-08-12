@@ -1,4 +1,4 @@
 # templates
 The list of all Retmod Templates
 
-## Presets coming soon™️
+- [SCSS, DaisyUI, Mantine](https://github.com/Retmod/template-mantine-daisyui-scss)
