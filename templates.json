@@ -1,0 +1,12 @@
+{
+	"templates": [
+		{
+			"name": "default",
+			"url": "https://github.com/RedCrafter07/retmod.git"
+		},
+		{
+			"name": "mantine-daisyui-scss",
+			"url": "https://github.com/Retmod/template-mantine-daisyui-scss.git"
+		}
+	]
+}
