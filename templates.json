@@ -7,6 +7,10 @@
 		{
 			"name": "mantine-daisyui-scss",
 			"url": "https://github.com/Retmod/template-mantine-daisyui-scss.git"
+		},
+		{
+			"name": "basic-trpc-chatapp",
+			"url": "https://github.com/Retmod/template-basic-trpc-chatapp"
 		}
 	]
 }
