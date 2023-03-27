@@ -13,8 +13,8 @@
 			"url": "https://github.com/Retmod/template-mantine-daisyui-scss.git"
 		},
 		{
-			"name": "basic-trpc-chatapp",
-			"url": "https://github.com/Retmod/template-basic-trpc-chatapp"
+			"name": "ssr",
+			"url": "https://github.com/Retmod/template-ssr.git"
 		}
 	]
 }
