@@ -11,10 +11,6 @@
 		{
 			"name": "mantine-daisyui-scss",
 			"url": "https://github.com/Retmod/template-mantine-daisyui-scss.git"
-		},
-		{
-			"name": "ssr",
-			"url": "https://github.com/Retmod/template-ssr.git"
 		}
 	]
 }
